@@ -1,17 +1,31 @@
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    long Max(TreeNode root){
-      if(root==null) return Long.MIN_VALUE;
-      return Math.max(root.val,Math.max(Max(root.left),Max(root.right)));
+    void helper(TreeNode root,ArrayList<Integer>arr){
+        if(root==null) return;
+        helper(root.left,arr);
+        arr.add(root.val);
+        helper(root.right,arr);
     }
-       long Min(TreeNode root){
-      if(root==null) return Long.MAX_VALUE;
-      return Math.min(root.val,Math.min(Min(root.left),Min(root.right)));
-       }
     public boolean isValidBST(TreeNode root) {
-        if(root==null) return true;
-        if(root.val<=Max(root.left)) return false;
-        if(root.val>=Min(root.right)) return false;
-        return isValidBST(root.left) && isValidBST(root.right);
+        ArrayList<Integer>arr=new ArrayList<>();
+        helper(root,arr);
+        for(int i=0;i<arr.size()-1;i++){
+            if(arr.get(i) > arr.get(i+1)) return false;
+        }
+        return true;
     }
 }
