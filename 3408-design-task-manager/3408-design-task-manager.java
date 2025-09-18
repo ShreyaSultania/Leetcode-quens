@@ -35,7 +35,6 @@ class TaskManager {
     public void edit(int taskId, int newPriority) {
         if(map.containsKey(taskId)){
             Pair old=map.get(taskId);
-    
             Pair upd=new Pair(old.userId,taskId,newPriority);
             pq.add(upd);
             map.put(taskId,upd);
@@ -52,7 +51,7 @@ class TaskManager {
     while (!pq.isEmpty()) {
         Pair top = pq.poll();
         Pair cur = map.get(top.taskId);
-        if (cur != null && cur.priority == top.priority) {
+        if (cur != null && cur.priority == top.priority && cur.userId==top.userId) {
             map.remove(top.taskId);
             return top.userId;
         }
