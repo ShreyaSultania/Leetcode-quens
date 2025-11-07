@@ -1,6 +1,6 @@
 class Solution {
     public int maxFrequency(int[] nums, int k) {
-        Arrays.sort(nums);
+         Arrays.sort(nums);
         int l=0;
         long max=0;
         long sum=0;
