@@ -1,33 +1,53 @@
-
+class Pair implements Comparable <Pair>{
+   int a;
+   int b;
+   Pair(int a,int b){
+    this.a=a;
+    this.b=b;
+   }
+   public int compareTo(Pair p){
+    return this.a-p.a;
+   }
+}
 class Solution {
-    public int[][] merge(int[][] intervals) {
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-        
-        ArrayList<ArrayList<Integer>> res = new ArrayList<>();
+    public int[][] merge(int[][] nums) {
+        List<Pair>intervals=new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            int a=nums[i][0];
+            int b=nums[i][1];
+            intervals.add(new Pair(a,b));
+        }
+        Collections.sort(intervals);
 
-        for (int i = 0; i < intervals.length; i++) {
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-
-           
-            if (res.isEmpty() || res.get(res.size() - 1).get(1) < start) {
-                ArrayList<Integer> temp = new ArrayList<>();
-                temp.add(start);
-                temp.add(end);
-                res.add(temp);
-            } else {
-                res.get(res.size() - 1).set(1, Math.max(res.get(res.size() - 1).get(1), end));
+        List<List<Integer>>ans=new ArrayList<>();
+        for(int i=0;i<intervals.size();i++){
+            int a=intervals.get(i).a;
+            int b=intervals.get(i).b;
+          
+            for(int j=i+1;j<intervals.size();j++){
+                int x=intervals.get(j).a;
+                int y=intervals.get(j).b;
+                if(b>=x){
+                    b=Math.max(b,y);
+                    i++;
+                }
+                else{
+                    break;
+                }
             }
+            List<Integer> temp=new ArrayList<>();
+            temp.add(a);
+            temp.add(b);
+
+            ans.add(temp);
         }
 
-        // Convert ArrayList<ArrayList<Integer>> to int[][]
-        int[][] arr = new int[res.size()][2];
-        for (int i = 0; i < res.size(); i++) {
-            arr[i][0] = res.get(i).get(0);
-            arr[i][1] = res.get(i).get(1);
+        int[][] m=new int[ans.size()][2];
+        for(int i=0;i<ans.size();i++){
+            m[i][0]=ans.get(i).get(0);
+            System.out.print(ans.get(i).get(0) +" " +ans.get(i).get(1));
+            m[i][1]=ans.get(i).get(1);
         }
-
-        return arr;
+        return m;
     }
 }
-
