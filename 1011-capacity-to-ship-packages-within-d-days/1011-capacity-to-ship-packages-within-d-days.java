@@ -1,37 +1,30 @@
 class Solution {
-    public int shipWithinDays(int[] arr, int days) {
-        int max=arr[0];
+    public int shipWithinDays(int[] weights, int days) {
         int total=0;
-        for(int i=0;i<arr.length;i++){
-            total=total+arr[i];
-            if(arr[i]>max){
-                max=arr[i];
-            }
+        int max=Integer.MIN_VALUE;
+        for(int i=0;i<weights.length;i++){
+            if(max<weights[i]) max=weights[i];
+            total+=weights[i];
         }
         int low=max;
         int high=total;
-        int ans=0;
         
         while(low<=high){
-            int s=0;
-            int c=1;
+             int sum=0;
+             int Sumdays=1;
             int mid=(low+high)/2;
-            for(int i=0;i<arr.length;i++){
-                if(s+arr[i]>mid) {
-                c++;
-                s=arr[i];
+            for(int i=0;i<weights.length;i++){
+                if(sum+weights[i]>mid){
+                    Sumdays++;
+                    sum=weights[i];
+                }
+                else{
+                    sum+=weights[i];
+                }
             }
-            else{
-                s=s+arr[i];
-            }
-            }
-            
-            if(c<=days){
-                high=mid-1;
-                ans=mid;
-            }
-            else low=mid+1;
+            if(Sumdays>days) low=mid+1;
+            else high=mid-1;
         }
-        return ans;
+        return low;
     }
 }
