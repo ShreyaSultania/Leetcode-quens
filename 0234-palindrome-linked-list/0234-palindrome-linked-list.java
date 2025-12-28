@@ -27,7 +27,7 @@ class Solution {
             curr=Next;
         }
         ListNode t=prev;
-        while(temp!=null && t!=null){
+        while(t!=null){
             if(temp.val!=t.val) return false;
            temp=temp.next;
            t=t.next;
