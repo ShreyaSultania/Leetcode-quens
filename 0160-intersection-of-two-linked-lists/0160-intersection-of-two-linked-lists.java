@@ -11,54 +11,36 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode tempA=headA;
-        int length1=0;
-        ListNode tempB=headB;
-        while(tempA!=null){
-            length1++;
-            tempA=tempA.next;
+        ListNode t1=headA;
+        ListNode t2=headB;
+        int len1=0;
+        int len2=0;
+        while(t1!=null){
+            len1++;
+            t1=t1.next;
         }
-        int length2=0;
-        while(tempB!=null){
-            length2++;
-            tempB=tempB.next;
+         while(t2!=null){
+            len2++;
+            t2=t2.next;
         }
-        if(length1==length2){
-            ListNode temp=headA;
-            ListNode t=headB;
-            while(temp!=t){
-                temp=temp.next;
-                t=t.next;
+         ListNode tA=headA;
+        ListNode tB=headB;
+        if(len1>len2){
+            for(int i=0;i<len1-len2;i++){
+                tA=tA.next;
             }
-            return temp;
+            
         }
-        else{
-            if(length1>length2){
-                 ListNode t=headB;
-                 ListNode temp=headA;
-                 for(int i=1;i<=length1-length2;i++){
-                    temp=temp.next;
-                 }
-                 while(temp!=t){
-                temp=temp.next;
-                t=t.next;
+        else if(len1<len2){
+            for(int i=0;i<len2-len1;i++){
+                tB=tB.next;
             }
-                return temp;
-
-            }
-            else if(length1<length2){
-                 ListNode temp=headB;
-                 ListNode t=headA;
-                 for(int i=1;i<=length2-length1;i++){
-                    temp=temp.next;
-                 }
-                 while(temp!=t){
-                temp=temp.next;
-                t=t.next;
-            }
-                return temp;
-
-            }
+            
+        }
+        while(tA!=null){
+            if(tA==tB) return tA;
+            tA=tA.next;
+            tB=tB.next;
         }
         return null;
     }
