@@ -1,15 +1,16 @@
 class Solution {
-    public int[] plusOne(int[] arr) {
-        int n=arr.length;
-         int brr[]=new int[n+1];
+    public int[] plusOne(int[] digits) {
+        int n=digits.length;
+        int []arr=new int[n+1];
         for(int i=n-1;i>=0;i--){
-            if(arr[i]<9){
-                arr[i]++;
-                return arr;
+            if(digits[i]<9){
+                digits[i]=digits[i]+1;
+                return digits;
             }
-            arr[i]=0;   
+            digits[i]=0;
         }
-        brr[0]=1;
-         return brr;
+        arr[0]=1;
+        
+        return arr;
     }
 }
