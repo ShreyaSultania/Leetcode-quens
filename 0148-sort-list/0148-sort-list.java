@@ -10,17 +10,17 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        ArrayList<Integer>arr=new ArrayList<>();
         ListNode temp=head;
+        ArrayList<Integer>ans=new ArrayList<>();
         while(temp!=null){
-            arr.add(temp.val);
+            ans.add(temp.val);
             temp=temp.next;
         }
-        Collections.sort(arr);
+        Collections.sort(ans);
         ListNode dummy=new ListNode(0);
         ListNode t=dummy;
-        for(int i=0;i<arr.size();i++){
-            ListNode a=new ListNode(arr.get(i));
+        for(int i=0;i<ans.size();i++){
+            ListNode a=new ListNode(ans.get(i));
             t.next=a;
             t=t.next;
         }
