@@ -39,6 +39,7 @@ class Solution {
         if(a!=null){
         a.next=prev;
         }
+        
         b.next=d;
 
         if(left==1) return prev;
