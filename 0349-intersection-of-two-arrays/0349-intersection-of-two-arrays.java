@@ -1,32 +1,23 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
-        int n=nums1.length;
-        int m=nums2.length;
-        int idx=0;
-        HashMap<Integer,Integer>map=new HashMap<>();
-        for(int i=0;i<n;i++){
-            if(map.containsKey(nums1[i])){
-                int freq=map.get(nums1[i]);
-                map.put(nums1[i],freq);
-            }
-            else{
-                map.put(nums1[i],1);
+        HashSet<Integer>arr=new HashSet<>();
+        HashSet<Integer>set=new HashSet<>();
+        for(int i=0;i<nums1.length;i++){
+            set.add(nums1[i]);
+        }
+        for(int i=0;i<nums2.length;i++){
+            if(set.contains(nums2[i])){
+                arr.add(nums2[i]);
             }
         }
-        HashMap<Integer,Integer>mapCheck=new HashMap<>();
-        for(int i=0;i<m;i++){
-            if(map.containsKey(nums2[i]) && !mapCheck.containsKey(nums2[i])){
-              mapCheck.put(nums2[i],1);
-            }
-        }
-        ArrayList<Integer>arr=new ArrayList<>();
-       for(int ele: mapCheck.keySet()){
-           arr.add(ele);
+       int []ans=new int[arr.size()];
+       System.out.print(arr.size());
+       int k=0;
+       for(int ele:arr
+       ){
+        ans[k]=ele;
+        k++;
        }
-       int brr[]=new int[arr.size()];
-       for(int i=0;i<arr.size();i++){
-        brr[i]=arr.get(i);
-       }
-       return brr;
+       return ans;
     }
 }
