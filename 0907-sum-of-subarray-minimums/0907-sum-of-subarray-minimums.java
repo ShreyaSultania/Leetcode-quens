@@ -20,7 +20,7 @@ class Solution {
         st.push(0);
         psi[0]=-1;
         for(int i=1;i<n;i++){
-            while(!st.isEmpty() && arr[i]<arr[st.peek()]) st.pop();
+            while(!st.isEmpty() && arr[i]<=arr[st.peek()]) st.pop();
             if(st.isEmpty()) psi[i]=-1;
             else{
                 psi[i]=st.peek();
