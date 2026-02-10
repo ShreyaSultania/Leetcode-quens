@@ -1,35 +1,36 @@
-class Solution {
-     public class Triplet implements Comparable<Triplet>{
-    int d;
+class Triplet implements Comparable <Triplet>{
     int x;
     int y;
-    Triplet(int d,int x, int y){
-        this.d=d;
+    double dis;
+    Triplet(int x,int y,double dis){
         this.x=x;
         this.y=y;
+        this.dis=dis;
     }
     public int compareTo(Triplet t){
-        return this.d-t.d;
+        return Double.compare(t.dis,this.dis);
     }
 }
-    public int[][] kClosest(int[][] arr, int k) {
-PriorityQueue<Triplet>pq=new PriorityQueue<>(Collections.reverseOrder());
-    for(int i=0;i<arr.length;i++){
-        int x=arr[i][0];
-        int y=arr[i][1];
-        int d=(x*x)+(y*y);
-        pq.add(new Triplet(d, x, y));
-        if(pq.size()>k){
-            pq.remove();
+class Solution {
+    public int[][] kClosest(int[][] points, int k) {
+        PriorityQueue<Triplet>pq=new PriorityQueue<>();
+        for(int i=0;i<points.length;i++){
+            int x=points[i][0];
+            int y=points[i][1];
+            double dis=Math.sqrt(x*x+y*y);
+            pq.add(new Triplet(x,y,dis));
+            if(pq.size()>k) pq.remove();
         }
-    }
-    int ans[][]=new int[k][2];
-    for(int i=0;i<k;i++){
-        Triplet t=pq.peek();
-        ans[i][0]=t.x;
-        ans[i][1]=t.y;
-        pq.remove();
-    }
-    return ans;
+        int [][]arr=new int[pq.size()][2];
+        int idx=0;
+        while(pq.size()>0){
+            Triplet t=pq.remove();
+            int x=t.x;
+            int y=t.y;
+            arr[idx][0]=x;
+            arr[idx][1]=y;
+            idx++;
+        }
+        return arr;
     }
 }
