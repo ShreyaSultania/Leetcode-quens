@@ -1,22 +1,25 @@
 class Solution {
-    void fun(ArrayList<Integer>temp,List<List<Integer>>res,int start,int nums[]){
-        res.add(new ArrayList<>(temp));
-        for(int i=start;i<nums.length;i++){
-            if(i>start && nums[i]==nums[i-1]){
-                continue;
-            
-           }
-            temp.add(nums[i]);
-            fun(temp,res,i+1,nums);
-            temp.remove(temp.size()-1);
-
+    List<List<Integer>>ans=new ArrayList<>();
+    void helper(int []nums,int idx, HashSet<ArrayList<Integer>>set,ArrayList<Integer>temp){
+        if(nums.length==idx){
+            set.add(new ArrayList<>(temp));
+            // ans.add(set);
+            return;
         }
+        // skip
+        helper(nums,idx+1,set,temp);
+        // take
+        temp.add(nums[idx]);
+        helper(nums,idx+1,set,temp);
+        temp.remove(temp.size()-1);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
+        
+        HashSet<ArrayList<Integer>>set=new HashSet<>();
         ArrayList<Integer>temp=new ArrayList<>();
-        List<List<Integer>>res=new ArrayList<>();   
-        fun(temp,res,0,nums);
-        return res;
+        helper(nums,0,set,temp);
 
+        return new ArrayList<>(set);
     }
 }
