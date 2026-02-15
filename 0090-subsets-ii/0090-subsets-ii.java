@@ -11,11 +11,11 @@ class Solution {
         // take
         temp.add(nums[idx]);
         helper(nums,idx+1,set,temp);
+        // backtracking
         temp.remove(temp.size()-1);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        
         HashSet<ArrayList<Integer>>set=new HashSet<>();
         ArrayList<Integer>temp=new ArrayList<>();
         helper(nums,0,set,temp);
