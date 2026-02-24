@@ -14,22 +14,25 @@
  * }
  */
 class Solution {
-    TreeNode helper(int[] preorder, int[] inorder,int pl,int ph,int il,int ih){
-        if(pl>ph || il>ih) return null;
-        TreeNode root=new TreeNode(preorder[pl]);
-        int r=0;
+    int search(int[] preorder, int[] inorder,int target){
         for(int i=0;i<inorder.length;i++){
-            if(inorder[i]==preorder[pl]){
-                 r=i;
-                 break;
+            if(inorder[i]==target){
+                return i;
             }
         }
-        int ls=r-il;
-        root.left=helper(preorder,inorder,pl+1,pl+ls,il,r-1);
-        root.right=helper(preorder,inorder,pl+1+ls,ph,r+1,ih);
+        return -1;
+    }
+    int preIdx=0;
+    TreeNode helper(int[] preorder, int[] inorder,int left,int right){
+        if(left>right) return null;
+        TreeNode root=new TreeNode(preorder[preIdx]);
+        int inIdx=search(preorder,inorder,root.val);
+        preIdx++;
+        root.left=helper(preorder,inorder,left,inIdx-1);
+        root.right=helper(preorder,inorder,inIdx+1,right);
         return root;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-         return helper(preorder,inorder,0,preorder.length-1,0,inorder.length-1);
+        return helper(preorder,inorder,0,preorder.length-1);
     }
 }
