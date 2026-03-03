@@ -7,7 +7,7 @@ class Solution {
         }
         int maxLength=0;
          for(int ele:set){
-           if(!set.contains(ele-1)){
+           if(set.contains(ele+1)){
              int curr=ele;
               int length=1;
             while(set.contains(curr+1)){
