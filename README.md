@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0076-minimum-window-substring/) | Hard |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -42,4 +44,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
