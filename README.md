@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0076-minimum-window-substring/) | Hard |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0125-valid-palindrome/) | Easy |
@@ -27,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
