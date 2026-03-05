@@ -1,24 +1,24 @@
 class Solution {
-    public int minEatingSpeed(int[] arr, int days) {
-       
-        long low=1;
-        long high=(long)1e9;
-        long ans=0;
-        
-        while(low<=high){
-            long s=0;
-            long mid=(low+high)/2;
-            for(int i=0;i<arr.length;i++){
-                s=s+(arr[i]+mid-1)/mid;
-            }
-            
-            if(s<=days){
-                high=mid-1;
-                ans=mid;
-            }
-            else low=mid+1;
+    public int minEatingSpeed(int[] piles, int h) {
+        int max=Integer.MIN_VALUE;
+        int low=1;
+        for(int i=0;i<piles.length;i++){
+            max=Math.max(piles[i],max);
         }
-        return (int)ans;
+        int high=max;
+        while(low<=high){
+            int mid=(low+high)/2;
+            int hours=0;
+            for(int i=0;i<piles.length;i++){
+                hours+=Math.ceil((double)piles[i]/mid);
+            }
+            if(hours>h){
+                low=mid+1;
+            }
+            else{
+                high=mid-1;
+            }
+        }
+        return low;
     }
 }
-  
