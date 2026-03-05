@@ -4,12 +4,11 @@ class Solution {
         int high=nums.length-1;
         while(low<high){
             int mid=(low+high)/2;
-            if(nums[high]<nums[mid]){
+            if(nums[mid]>nums[high]){
                 low=mid+1;
             }
-           else high=mid;
+            else high=mid;
         }
-
         return nums[low];
     }
 }
