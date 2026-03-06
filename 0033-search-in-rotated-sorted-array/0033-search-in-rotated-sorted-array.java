@@ -1,28 +1,26 @@
 class Solution {
-    public int search(int[] arr, int target) {
+    public int search(int[] nums, int target) {
         int low=0;
-        int high=arr.length-1;
+        int high=nums.length-1;
         while(low<=high){
             int mid=(low+high)/2;
-            if(arr[mid]==target) return mid;
-            else if(arr[mid]>=arr[low]){
-                if(arr[low]<=target && target<arr[mid]){
-                    high=mid-1;
-                }
-                else{
-                   low=mid+1;
-                }
+            if(nums[mid] == target) return mid;
+            //left part
+            if(nums[low]<=nums[mid]){
+            if(nums[low]<=target && nums[mid]>target){
+                high=mid-1;
             }
             else{
-                if(arr[mid]<target && target<=arr[high]){
-                   low=mid+1;
-                }
-                else{
-                    high=mid-1;
-                }
+                low=mid+1;
             }
         }
-        return -1;
-
+        else{
+            if(nums[high]>=target && nums[mid]<target){
+               low=mid+1;
+            }
+            else high=mid-1;
+        }
+    }
+    return -1;
     }
 }
