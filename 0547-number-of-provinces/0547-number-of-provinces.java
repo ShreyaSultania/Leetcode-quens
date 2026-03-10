@@ -1,27 +1,33 @@
 class Solution {
-    void bfs(int i,boolean[]visited,int[][]adj,int n){
+    // void dfs(int i,int j,int[][] adj,boolean [][]visited){
+    //     if(i>=adj.length || j>=adj[0].length) return;
+    //     if(adj[i][j]!=1) return;
+    //     if(adj[i][j]==1) visited[i][j]=true;
+    //     dfs(i+1,j,adj,visited);
+    //     // dfs(i,j+1,adj,visited);
+    // }
+    void dfs(int i,int mat[][],boolean visited[]){
+        int n=mat.length;
         visited[i]=true;
-        Queue<Integer>q=new LinkedList<>();
-        q.add(i);
-        while(q.size()!=0){
-            int front=q.remove();
-            for(int k=0;k<n;k++){
-                if(adj[front][k]==1 && visited[k]==false){
-                    q.add(k);
-                    visited[k]=true;
-                }
+        for(int j=0;j<n;j++){
+            if(!visited[j] && mat[i][j]==1){
+                dfs(j,mat,visited);
             }
         }
     }
-    public int findCircleNum(int[][] adj) {
-        int n=adj.length;
+    public int findCircleNum(int[][] isConnected) {
+        int n=isConnected.length;
+        // boolean [][]visited=new boolean[n][n];
+        boolean visited[] = new boolean[n];
         int c=0;
-        boolean visited[]=new boolean[n];
         for(int i=0;i<n;i++){
-            if(!visited[i]){
-                bfs(i,visited,adj,n);
-                c++;
-            }
+            // for(int j=0;j<n;j++){
+                // if(isConnected[i][j]==1 && visited[i][j]!=true){
+                if(visited[i]!=true){
+                    dfs(i,isConnected,visited);
+                    c++;
+                }
+            // }
         }
         return c;
     }
