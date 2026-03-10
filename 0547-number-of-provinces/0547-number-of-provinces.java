@@ -3,7 +3,7 @@ class Solution {
         visited[val]=true;
         for(int i=0;i<adj[0].length;i++){
             if(adj[val][i]==1 && !visited[i]){
-                dfs(adj[val][i],adj,visited);
+                dfs(i,adj,visited);
             }
         }
     }
