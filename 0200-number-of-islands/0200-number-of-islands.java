@@ -1,61 +1,24 @@
-class Pair{
-    int a;
-    int b;
-    Pair(int a,int b){
-        this.a=a;
-        this.b=b;
-    }
-}
 class Solution {
-    void bfs(char[][] grid,boolean [][]visited,int i, int j){
-        Queue<Pair>q=new LinkedList<>();
-        if(grid[i][j]=='1'){
-        q.add(new Pair(i,j));
-        visited[i][j]=true;
-        }
-        while(!q.isEmpty()){
-            Pair ele=q.remove();
-            int row=ele.a;
-            int col=ele.b;
-            //   no need to check left and top if it return then we cant reach there and no calls of bfs
-            //  right
-            if(col+1<grid[0].length){
-            if(grid[row][col+1]=='1' && visited[row][col+1]==false){
-                q.add(new Pair(row,col+1));
-                visited[row][col+1]=true;
-            }
-            }
-            // down
-             if(row+1<grid.length){
-           if( grid[row+1][col]=='1' && visited[row+1][col]==false){
-                q.add(new Pair(row+1,col));
-                visited[row+1][col]=true;
-            }
-            }
-            // top
-            if(row-1>=0){
-           if( grid[row-1][col]=='1' && visited[row-1][col]==false){
-                q.add(new Pair(row-1,col));
-                visited[row-1][col]=true;
-            }
-            }
-            // left
-            if(col-1>=0){
-           if( grid[row][col-1]=='1' && visited[row][col-1]==false){
-                q.add(new Pair(row,col-1));
-                visited[row][col-1]=true;
-            }
+    void dfs(int i,int j,char[][]adj,boolean [][]visited){
+        if(i>=0 && j>=0 && i<adj.length && j<adj[0].length && adj[i][j]=='1' && !visited[i][j]){
+            visited[i][j]=true;
+            int [][]dir={{0,1},{0,-1},{1,0},{-1,0}};
+            for(int []d:dir){
+                int row=i+d[0];
+                int col=j+d[1];
+                dfs(row,col,adj,visited);
             }
         }
     }
-    
     public int numIslands(char[][] grid) {
-        boolean [][]visited=new boolean[grid.length][grid[0].length];
+        int row=grid.length;
+        int col=grid[0].length;
+        boolean [][]visited=new boolean[row][col];
         int c=0;
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
                 if(grid[i][j]=='1' && !visited[i][j]){
-                    bfs(grid,visited,i,j);
+                    dfs(i,j,grid,visited);
                     c++;
                 }
             }
