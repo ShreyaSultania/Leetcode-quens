@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1046-last-stone-weight/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -178,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0841-keys-and-rooms/) | Medium |
+| [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -191,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
