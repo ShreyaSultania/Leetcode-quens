@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0841-keys-and-rooms/) | Medium |
