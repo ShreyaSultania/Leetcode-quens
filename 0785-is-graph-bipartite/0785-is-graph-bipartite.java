@@ -1,32 +1,41 @@
 class Solution {
-    boolean bfs(int i,int []visited,int[][] adj){
+    boolean bfs(  ArrayList<ArrayList<Integer>>adj,int[]coloured,int node){
         Queue<Integer>q=new LinkedList<>();
-        q.add(i);
-        visited[i]=1; //1->red 0->blue
-        while(!q.isEmpty()){
-            int ele=q.remove();
-            int colour=visited[ele];
-            for(int k=0;k<adj[ele].length;k++){
-                if(visited[adj[ele][k]]==visited[ele]) return false;
-                if(visited[adj[ele][k]]==-1){
-                    visited[adj[ele][k]]=1-colour;
-                    q.add(adj[ele][k]);
+        q.add(node);
+        coloured[node]=1;
+        while(q.size()>0){
+            int val=q.remove();
+            int colour=coloured[val];
+            for(int i=0;i<adj.get(val).size();i++){
+                if(coloured[adj.get(val).get(i)]==0){
+                    q.add(adj.get(val).get(i));
+                    coloured[adj.get(val).get(i)]=3-colour;
                 }
+                else if(coloured[adj.get(val).get(i)]!=0 && coloured[val]==coloured[adj.get(val).get(i)]) return false;
             }
         }
         return true;
     }
     public boolean isBipartite(int[][] graph) {
-        int n=graph.length;
-        int []visited=new int[n];
-        Arrays.fill(visited,-1);
-        boolean ans=true;
-        for(int i=0;i<n;i++){
-            if(i==0 || visited[i]==-1){
-                ans=bfs(i,visited,graph);
-                if(ans==false) return false;
+        int row=graph.length;
+        int col=graph[0].length;
+        ArrayList<ArrayList<Integer>>adj=new ArrayList<>();
+        for(int i=0;i<row;i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int i=0;i<row;i++){
+            for(int j=0;j<graph[i].length;j++){
+                adj.get(i).add(graph[i][j]);
             }
         }
-       return ans;
+        int[]coloured=new int[row];
+        //red->1
+        //blue->2
+        for(int i=0;i<row;i++){
+            if(coloured[i]==0)
+            if(!bfs(adj,coloured,i)) return false;
+        }
+        
+    return true;
     }
 }
