@@ -1,34 +1,41 @@
 class Solution {
-    static boolean ans=true;
-    void dfs(int i, List<List<Integer>>adj, boolean visited[], boolean path[]){
-        visited[i]=true;
-        path[i]=true;
-        for(int j=0;j<adj.get(i).size();j++){
-            if(path[adj.get(i).get(j)]==true){
-               ans=false;
-                return;
-            }
-            if(!visited[adj.get(i).get(j)] && !path[adj.get(i).get(j)]){
-                dfs(adj.get(i).get(j),adj,visited,path);
+    List<Integer>temp;
+    void bfs(List<List<Integer>>adj,int []indegree,boolean []visited){
+        Queue<Integer>q=new LinkedList<>();
+        for(int i=0;i<indegree.length;i++){
+            if(indegree[i]==0){
+                q.add(i);
+                visited[i]=true;
             }
         }
-         path[i]=false;
+        while(q.size()>0){
+            int ele=q.remove();
+            temp.add(ele);
+            for(int i=0;i<adj.get(ele).size();i++){
+                indegree[adj.get(ele).get(i)]--;
+                if(indegree[adj.get(ele).get(i)]==0){
+                    q.add(adj.get(ele).get(i));
+                    visited[adj.get(ele).get(i)]=true;
+                }
+            }
+        }
     }
-    public boolean canFinish(int n, int[][] pre) {
+    public boolean canFinish(int num, int[][] pre) {
+        temp=new ArrayList<>();
         List<List<Integer>>adj=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            ArrayList<Integer>arr=new ArrayList<>();
-            adj.add(arr);
+        int []indegree=new int[num];
+        for(int i=0;i<num;i++){
+            adj.add(new ArrayList<>());
         }
-        
         for(int i=0;i<pre.length;i++){
             int u=pre[i][0];
             int v=pre[i][1];
             adj.get(v).add(u);
+            indegree[u]++;
         }
-     boolean visited[]=new boolean[n];
-     boolean path[]=new boolean[n];
-     dfs(0,adj,visited,path);
-     return ans;
+        boolean []visited=new boolean[num];
+        bfs(adj,indegree,visited);
+        if(temp.size()==num) return true;
+        return false;
     }
 }
