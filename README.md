@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0567-permutation-in-string/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3110-score-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
