@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3110-score-of-a-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3110-score-of-a-string/) | Easy |
 ## Sliding Window
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
