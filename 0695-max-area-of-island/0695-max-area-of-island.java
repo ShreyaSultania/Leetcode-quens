@@ -1,30 +1,32 @@
 class Solution {
-    int dfs(int[][] grid,int row,int col,int i,int j){
-        if(i<0 || j<0 || i==row || j==col || grid[i][j]==0){
-            return 0;
+    int c=0;
+    void dfs(int [][]grid,int i,int j,boolean[][]visited){
+        int m=grid.length;
+        int n=grid[0].length;
+        if(i>=0 && j>=0 && i<m&& j<n && !visited[i][j] && grid[i][j]==1){
+            visited[i][j]=true;
+            c=c+1;
+            dfs(grid,i+1,j,visited);
+            dfs(grid,i-1,j,visited);
+            dfs(grid,i,j+1,visited);
+            dfs(grid,i,j-1,visited);
         }
-        
-         grid[i][j]=0;
-         int temp=1;
-         temp=temp+dfs(grid,row,col,i,j+1);
-          temp=temp+dfs(grid,row,col,i-1,j);
-          temp=temp+dfs(grid,row,col,i,j-1);
-            temp=temp+dfs(grid,row,col,i+1,j);
-        return temp;
     }
     public int maxAreaOfIsland(int[][] grid) {
-        int row=grid.length;
-        int col=grid[0].length;
-        int max=0;
-        int temp=0;
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(grid[i][j]==1){
-                   int area= dfs(grid,row,col,i,j);
-                    max=Math.max(max,area);
+        int m=grid.length;
+        int n=grid[0].length;
+        boolean [][]visited=new boolean[m][n];
+        int max=Integer.MIN_VALUE;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(!visited[i][j] && grid[i][j]==1){
+                    dfs(grid,i,j,visited);
+                    max=Math.max(max,c);
+                    c=0;
                 }
             }
         }
+        if(max==Integer.MIN_VALUE) return 0;
         return max;
     }
 }
