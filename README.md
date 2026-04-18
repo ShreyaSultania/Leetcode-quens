@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
+| [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0210-course-schedule-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -250,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0802-find-eventual-safe-states/) | Medium |
