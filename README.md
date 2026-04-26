@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1046-last-stone-weight/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2906-construct-product-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2906-construct-product-matrix/) | Medium |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -271,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
