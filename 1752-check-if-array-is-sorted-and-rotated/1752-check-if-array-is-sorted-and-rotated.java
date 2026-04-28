@@ -18,7 +18,7 @@ class Solution {
             }
             j++;
         }
-        if(max==n) return true;
+        if(max>=n) return true;
         return false;
     }
 }
