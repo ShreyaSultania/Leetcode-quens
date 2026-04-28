@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
