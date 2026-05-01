@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Heap (Priority Queue)
@@ -150,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
