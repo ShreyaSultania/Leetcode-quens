@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0075-sort-colors/) | Medium |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
