@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0136-single-number/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Linked List
