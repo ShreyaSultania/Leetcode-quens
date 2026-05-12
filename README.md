@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0075-sort-colors/) | Medium |
+| [0118-pascals-triangle](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
+| [0118-pascals-triangle](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
