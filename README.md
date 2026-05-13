@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0567-permutation-in-string/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0796-rotate-string/) | Easy |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -167,16 +170,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1046-last-stone-weight](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
