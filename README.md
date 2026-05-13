@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Dynamic Programming
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
