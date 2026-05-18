@@ -10,7 +10,7 @@ class Solution {
                 high--;
             }
             else if(arr[mid]>=arr[low]){
-                if(arr[low]<=target && target<arr[mid]){
+                if(arr[low]<=target && target<=arr[mid]){
                     high=mid-1;
                 }
                 else{
@@ -18,7 +18,7 @@ class Solution {
                 }
             }
             else{
-                if(arr[mid]<target && target<=arr[high]){
+                if(arr[mid]<=target && target<=arr[high]){
                     low=mid+1;
                 }
                 else{
