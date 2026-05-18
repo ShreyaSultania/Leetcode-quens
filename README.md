@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
