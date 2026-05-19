@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0567-permutation-in-string/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0875-koko-eating-bananas/) | Medium |
+| [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
