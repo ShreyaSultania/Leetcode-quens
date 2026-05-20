@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -426,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
