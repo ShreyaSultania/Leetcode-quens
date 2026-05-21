@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
