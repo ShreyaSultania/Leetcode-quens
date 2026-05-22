@@ -5,19 +5,22 @@ class Solution {
         while(low<=high){
             int mid=(low+high)/2;
             if(nums[mid]==target) return mid;
+            //left sorted
             else if(nums[low]<=nums[mid]){
-                if(nums[low]<=target && nums[mid]>=target){
+                if(nums[low]<=target && target<=nums[mid]){
                     high=mid-1;
                 }
                 else low=mid+1;
             }
+            //right sorted
             else{
-                 if(nums[high]>=target && nums[mid]<=target){
-                   low=mid+1;
+                if(nums[mid]<=target && target<=nums[high]){
+                    low=mid+1;
                 }
-                else high=mid-1;
+                else{
+                    high=mid-1;
+                }
             }
-
         }
         return -1;
     }
