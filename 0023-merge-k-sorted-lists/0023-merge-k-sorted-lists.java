@@ -9,48 +9,23 @@
  * }
  */
 class Solution {
-    public ListNode MergeList(ListNode list1,ListNode list2){
-        ListNode t1 = list1;
-        ListNode t2 = list2;
-        if (list1 == null && list2 == null)
-            return null;
-        ListNode dummy = new ListNode(0);
-        ListNode temp = dummy;
-        while (t1 != null && t2 != null) {
-
-            if (t1.val <= t2.val) {
-                // ListNode a=new ListNode(t1.val);
-                temp.next = t1;
-                temp = temp.next;
-                t1 = t1.next;
-            } else {
-                // ListNode b=new ListNode(t2.val);
-                temp.next = t2;
-                temp = temp.next;
-                t2 = t2.next;
+    public ListNode mergeKLists(ListNode[] lists) {
+        ListNode dummy=new ListNode(0);
+        ListNode temp=dummy;
+       ArrayList<Integer>arr=new ArrayList<>();
+        int n=lists.length;
+        for(int i=0;i<n;i++){
+            ListNode l1=lists[i];
+            while(l1!=null){
+                arr.add(l1.val);
+                l1=l1.next;
             }
         }
-        if (t1 != null) {
-            temp.next = t1;
-            temp = temp.next;
-            t1 = t1.next;
-        }
-        if (t2 != null) {
-            temp.next = t2;
-            temp = temp.next;
-           
-            t2 = t2.next;
+        Collections.sort(arr);
+        for(int i=0;i<arr.size();i++){
+           temp.next=new ListNode(arr.get(i));
+           temp=temp.next;
         }
         return dummy.next;
-    }
-    public ListNode mergeKLists(ListNode[] lists) {
-        ListNode ans = null;
-        
-        for(int i=0;i<lists.length;i++){
-            
-           ans= MergeList(lists[i],ans);
-
-        }
-return ans;
     }
 }
