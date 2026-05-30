@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Simulation
