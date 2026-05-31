@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2126-destroying-asteroids/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Divide and Conquer
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2126-destroying-asteroids/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
