@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0061-rotate-list/) | Medium |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
