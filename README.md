@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0796-rotate-string/) | Easy |
 | [1328-break-a-palindrome](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1328-break-a-palindrome/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0991-broken-calculator/) | Medium |
 | [1328-break-a-palindrome](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1328-break-a-palindrome/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
