@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
