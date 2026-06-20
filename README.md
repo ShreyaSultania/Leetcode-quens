@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1046-last-stone-weight/) | Easy |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2574-left-and-right-sum-differences/) | Easy |
