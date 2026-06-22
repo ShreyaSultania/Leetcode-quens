@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0189-rotate-array/) | Medium |
+| [0263-ugly-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [0991-broken-calculator](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0991-broken-calculator/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
