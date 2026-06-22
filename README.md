@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0231-power-of-two/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [0991-broken-calculator](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0991-broken-calculator/) | Medium |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String Matching
