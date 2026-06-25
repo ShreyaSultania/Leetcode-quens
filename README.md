@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1020-number-of-enclaves/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0948-bag-of-tokens/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0881-boats-to-save-people/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0948-bag-of-tokens/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
