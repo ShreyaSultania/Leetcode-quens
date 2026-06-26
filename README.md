@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0567-permutation-in-string/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0496-next-greater-element-i/) | Easy |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0496-next-greater-element-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0496-next-greater-element-i/) | Easy |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0496-next-greater-element-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
