@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
