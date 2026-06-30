@@ -6,15 +6,19 @@ class Pair implements Comparable<Pair>{
         this.freq=freq;
     }
     public int compareTo(Pair p){
-        return p.freq-this.freq;
+        if(p.freq==this.freq){
+            return this.ch-p.ch;
+        }
+        else{
+            return p.freq-this.freq;
+        }
     }
 }
 class Solution {
     public String frequencySort(String s) {
         PriorityQueue<Pair>pq=new PriorityQueue<>();
-        int n=s.length();
         HashMap<Character,Integer>map=new HashMap<>();
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(!map.containsKey(ch)){
                 map.put(ch,1);
@@ -24,16 +28,17 @@ class Solution {
                 map.put(ch,freq+1);
             }
         }
-        for(char ele:map.keySet()){
-            int freq=map.get(ele);
-            pq.add(new Pair(ele,freq));
+        for(char ch:map.keySet()){
+            int freq=map.get(ch);
+            pq.add(new Pair(ch,freq));
         }
         String ans="";
         while(pq.size()>0){
             Pair p=pq.remove();
-            int freq=p.freq;
-            for(int i=0;i<freq;i++){
-                ans+=p.ch;
+            int f=p.freq;
+            char c=p.ch;
+            for(int i=0;i<f;i++){
+                ans+=c;
             }
         }
         return ans;
