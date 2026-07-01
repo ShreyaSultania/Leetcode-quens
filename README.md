@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0090-subsets-ii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Tree
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
