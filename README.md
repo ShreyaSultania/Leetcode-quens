@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1922-count-good-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1922-count-good-numbers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0991-broken-calculator](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0991-broken-calculator/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1922-count-good-numbers/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
