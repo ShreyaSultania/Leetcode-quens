@@ -14,18 +14,19 @@
  * }
  */
 class Solution {
-    
-    int levels(TreeNode root){
+    boolean flag = true;
+    int helper(TreeNode root){
         if(root==null) return 0;
-        int c=1+levels(root.left);
-        int c1=1+levels(root.right);
-        return Math.max(c,c1);
+        int left=1+helper(root.left);
+        int right=1+helper(root.right);
+        if(Math.abs(left-right)>1){
+            flag=false;
+        }
+        return Math.max(left,right);
     }
     public boolean isBalanced(TreeNode root) {
         if(root==null) return true;
-        int diff= Math.abs((levels(root.right))-(levels(root.left))); 
-        if(diff>1) return false;
-        return isBalanced(root.left) && isBalanced(root.right);
-        
+        helper(root);
+        return flag;
     }
 }
