@@ -445,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0216-combination-sum-iii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
