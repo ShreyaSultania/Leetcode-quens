@@ -1,22 +1,21 @@
 class Solution {
-    void dfs(int i,int j,char[][]adj,boolean [][]visited){
-        if(i>=0 && j>=0 && i<adj.length && j<adj[0].length && adj[i][j]=='1' && !visited[i][j]){
-            visited[i][j]=true;
-            int [][]dir={{0,1},{0,-1},{1,0},{-1,0}};
-            for(int []d:dir){
-                int row=i+d[0];
-                int col=j+d[1];
-                dfs(row,col,adj,visited);
-            }
-        }
+    void dfs(int i,int j,char[][]grid, boolean [][]visited){
+        int m=grid.length;
+        int n=grid[0].length;
+        if(i>=m || i<0 || j>=n ||j<0|| grid[i][j]!='1' || visited[i][j]) return;
+        visited[i][j]=true;
+        dfs(i+1,j,grid,visited);
+        dfs(i,j+1,grid,visited);
+        dfs(i-1,j,grid,visited);
+        dfs(i,j-1,grid,visited);
     }
     public int numIslands(char[][] grid) {
-        int row=grid.length;
-        int col=grid[0].length;
-        boolean [][]visited=new boolean[row][col];
+        int m=grid.length;
+        int n=grid[0].length;
+        boolean [][]visited=new boolean[m][n];
         int c=0;
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(grid[i][j]=='1' && !visited[i][j]){
                     dfs(i,j,grid,visited);
                     c++;
