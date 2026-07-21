@@ -1,20 +1,25 @@
 class Solution {
-    void dfs(int [][]mat,boolean []visited,int idx){
-        visited[idx]=true;
-        for(int j=0;j<mat.length;j++){
-            if(mat[idx][j]==1 &&!visited[j]){
-                dfs(mat,visited,j);
+    void bfs(int ele,int[][]mat,boolean[]visited){
+        Queue<Integer>q=new LinkedList<>();
+        visited[ele]=true;
+        q.add(ele);
+        while(q.size()>0){
+            int top=q.remove();
+            for(int i=0;i<mat.length;i++){
+                if(mat[top][i]==1 && !visited[i]){
+                     visited[i]=true;
+                     q.add(i);
+                }
             }
         }
     }
     public int findCircleNum(int[][] mat) {
         int n=mat.length;
-        int m=mat[0].length;
-        boolean []visited=new boolean[n];
         int c=0;
+        boolean []visited=new boolean[n];
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                dfs(mat,visited,i);
+                bfs(i,mat,visited);
                 c++;
             }
         }
