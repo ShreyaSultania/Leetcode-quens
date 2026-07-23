@@ -1,18 +1,13 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int i=0;
-        int j=0;
-        int n=nums.length;
-        int sum=0;
         int c=0;
-        while(j<n){
-            sum+=nums[j];
-            while(sum>k){
-                sum-=nums[i];
-                i++;
+        int n=nums.length;
+        for(int i=0;i<n;i++){
+            int sum=0;
+            for(int j=i;j<n;j++){
+                sum+=nums[j];
+                if(sum==k) c++;
             }
-            if(sum==k) c++;
-            j++;
         }
         return c;
     }
