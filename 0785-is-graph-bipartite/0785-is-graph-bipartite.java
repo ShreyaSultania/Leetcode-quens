@@ -1,41 +1,41 @@
+class Triplet{
+    int val;
+    int parent;
+    int colour;
+    Triplet(int val,int parent,int colour){
+        this.val=val;
+        this.parent=parent;
+        this.colour=colour;
+    }
+}
 class Solution {
-    boolean bfs(  ArrayList<ArrayList<Integer>>adj,int[]coloured,int node){
-        Queue<Integer>q=new LinkedList<>();
-        q.add(node);
-        coloured[node]=1;
+    public boolean isBipartite(int[][] graph) {
+        //red=1;
+        //blue=0;
+        int n=graph.length;
+        int []colour=new int[n];
+        boolean[]visited=new boolean[n];
+        for(int i=0;i<n;i++){
+            colour[i]=-1;
+        }
+        Queue<Triplet>q=new LinkedList<>();
+        for(int j=0;j<n;j++){
+          if(visited[j]) continue;
+        q.add(new Triplet(j,-1,1));
+        visited[j]=true;
+        colour[j]=1;
         while(q.size()>0){
-            int val=q.remove();
-            int colour=coloured[val];
-            for(int i=0;i<adj.get(val).size();i++){
-                if(coloured[adj.get(val).get(i)]==0){
-                    q.add(adj.get(val).get(i));
-                    coloured[adj.get(val).get(i)]=3-colour;
+            Triplet t=q.remove();
+            for(int i=0;i<graph[t.val].length;i++){
+                if(!visited[graph[t.val][i]]){
+                q.add(new Triplet(graph[t.val][i],t.val,1-t.colour));
+                colour[graph[t.val][i]]=1-colour[t.val];
+                visited[graph[t.val][i]]=true;
                 }
-                else if(coloured[adj.get(val).get(i)]!=0 && coloured[val]==coloured[adj.get(val).get(i)]) return false;
+                else if(colour[graph[t.val][i]]==colour[t.val]) return false;
             }
+        }
         }
         return true;
-    }
-    public boolean isBipartite(int[][] graph) {
-        int row=graph.length;
-        int col=graph[0].length;
-        ArrayList<ArrayList<Integer>>adj=new ArrayList<>();
-        for(int i=0;i<row;i++){
-            adj.add(new ArrayList<>());
-        }
-        for(int i=0;i<row;i++){
-            for(int j=0;j<graph[i].length;j++){
-                adj.get(i).add(graph[i][j]);
-            }
-        }
-        int[]coloured=new int[row];
-        //red->1
-        //blue->2
-        for(int i=0;i<row;i++){
-            if(coloured[i]==0)
-            if(!bfs(adj,coloured,i)) return false;
-        }
-        
-    return true;
     }
 }
