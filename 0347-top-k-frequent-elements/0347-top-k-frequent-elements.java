@@ -1,20 +1,20 @@
 class Pair implements Comparable<Pair>{
-    int ele;
+    int val;
     int freq;
-    Pair(int ele,int freq){
-        this.ele=ele;
+    Pair(int val,int freq){
+        this.val=val;
         this.freq=freq;
     }
     public int compareTo(Pair p){
-        return p.freq-this.freq;
+        return this.freq-p.freq;
     }
 }
- class Solution {
+class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        int []arr=new int[k];
         PriorityQueue<Pair>pq=new PriorityQueue<>();
+        int n=nums.length;
         HashMap<Integer,Integer>map=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<n;i++){
             if(!map.containsKey(nums[i])){
                 map.put(nums[i],1);
             }
@@ -24,12 +24,16 @@ class Pair implements Comparable<Pair>{
             }
         }
         for(int ele:map.keySet()){
-            int freq=map.get(ele);
-            pq.add(new Pair(ele,freq));
+            pq.add(new Pair(ele,map.get(ele)));
+            if(pq.size()>k){
+                pq.remove();
+            }
         }
-        int idx=0;
-        while(k-->0){
-            arr[idx++]=pq.remove().ele;
+        int i=0;
+        int []arr=new int[k];
+        while(pq.size()>0){
+            Pair p=pq.remove();
+            arr[i++]=p.val;
         }
         return arr;
     }
