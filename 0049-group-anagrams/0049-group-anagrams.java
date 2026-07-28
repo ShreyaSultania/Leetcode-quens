@@ -5,16 +5,21 @@ class Solution {
         int n=strs.length;
         for(int i=0;i<n;i++){
             String s=strs[i];
-            char[]temp=s.toCharArray();
-            Arrays.sort(temp);
-            String st=new String(temp);
-            if(!map.containsKey(st)){
-                map.put(st,new ArrayList<>());
+            char[]c=s.toCharArray();
+            Arrays.sort(c);
+            String s2=new String(c);
+            if(!map.containsKey(s2)){
+                List<String>t=new ArrayList<>();
+                t.add(s);
+                map.put(s2,t);
             }
-                map.get(st).add(s);
+            else{
+                map.get(s2).add(s);
+            }
         }
-        for(String ele:map.keySet()){
-            ans.add(map.get(ele));
+        for(String a:map.keySet()){
+            List<String>s=map.get(a);
+            ans.add(s);
         }
         return ans;
     }
