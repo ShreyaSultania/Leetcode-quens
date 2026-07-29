@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0283-move-zeroes/) | Easy |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
