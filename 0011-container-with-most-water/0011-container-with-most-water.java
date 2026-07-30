@@ -3,15 +3,14 @@ class Solution {
         int n=arr.length;
         int i=0;
         int j=n-1;
-        int ans = 0;
+        int max=Integer.MIN_VALUE;
         while(i<j){
-            int l = Math.min(arr[i],arr[j]);
-            int b = j-i;
-            int area = l*b;
-            ans = Math.max(ans,area);
-            if(arr[i]<=arr[j]) i++;
+            int length=Math.min(arr[i],arr[j]);
+            int breadth=j-i;
+            max=Math.max(max,length*breadth);
+            if(arr[i]<arr[j]) i++;
             else j--;
         }
-        return ans;
+        return max;
     }
 }
