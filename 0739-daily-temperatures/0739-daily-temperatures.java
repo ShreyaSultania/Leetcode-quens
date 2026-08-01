@@ -1,35 +1,22 @@
 class Solution {
-    public int[] dailyTemperatures(int[] nums) {
+    public int[] dailyTemperatures(int[] temperatures) {
         Stack<Integer>st=new Stack<>();
-        ArrayList<Integer>ans=new ArrayList<>();
-        for(int i=nums.length-1;i>=0;i--){
-            if(st.isEmpty()){
-                ans.add(0);
-                st.push(i);
+        int n=temperatures.length;
+        st.push(n-1);
+        int []ans=new int[n];
+        ans[n-1]=0;
+        for(int i=n-2;i>=0;i--){
+            while(st.size()>0 && temperatures[st.peek()]<=temperatures[i]){
+                st.pop();
             }
-            else if(nums[st.peek()]>nums[i]){
-                ans.add(st.peek()-i);
-                st.push(i);
+            if(st.size()==0){
+                ans[i]=0;
             }
             else{
-                while(st.size()>0 && nums[st.peek()]<=nums[i]){
-                st.pop();
-                }
-                if(st.isEmpty()){
-                    ans.add(0);
-                    st.push(i);
-                }
-                else{
-                    ans.add(st.peek()-i);
-                    st.push(i);
-                }
+                ans[i]=st.peek()-i;
             }
+            st.push(i);
         }
-        Collections.reverse(ans);
-        int arr[]=new int[ans.size()];
-        for(int i=0;i<ans.size();i++){
-            arr[i]=ans.get(i);
-        }
-        return arr;
+        return ans;
     }
 }
