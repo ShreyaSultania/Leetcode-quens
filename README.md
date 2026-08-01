@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0155-min-stack](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0496-next-greater-element-i/) | Easy |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0155-min-stack/) | Medium |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
