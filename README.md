@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0155-min-stack/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -599,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1472-design-browser-history](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1472-design-browser-history/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -711,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
