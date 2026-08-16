@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -664,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
