@@ -25,7 +25,7 @@ class Solution {
                 max=key;
             }
         }
-        if(n==k && map.get(nums[0])==n) return nums[0];
+        // if(n==k && map.get(nums[0])==n) return nums[0];
         return max;
     }
 }
