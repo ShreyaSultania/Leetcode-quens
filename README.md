@@ -646,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
