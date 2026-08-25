@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
