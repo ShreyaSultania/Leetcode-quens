@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2126-destroying-asteroids/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2126-destroying-asteroids/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
