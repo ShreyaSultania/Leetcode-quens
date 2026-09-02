@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0704-binary-search/) | Easy |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0455-assign-cookies/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0948-bag-of-tokens/) | Medium |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0542-01-matrix/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0877-stone-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0877-stone-game/) | Medium |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1578-minimum-time-to-make-rope-colorful/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -751,4 +755,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0455-assign-cookies/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
