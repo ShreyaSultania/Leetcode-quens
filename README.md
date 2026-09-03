@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -658,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3536-maximum-product-of-two-digits/) | Easy |
