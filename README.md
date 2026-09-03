@@ -759,4 +759,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
