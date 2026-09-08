@@ -669,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3870-count-commas-in-range/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
