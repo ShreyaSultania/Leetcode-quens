@@ -5,12 +5,10 @@ class Solution {
         int sum=0;
         for(int i=0;i<n;i++){
             sum+=nums[i];
+            max=Math.max(sum,max);
             if(sum<0){
-                max=Math.max(max,sum);
+                max=Math.max(sum,max);
                 sum=0;
-            }
-            else{
-                max=Math.max(max,sum);
             }
         }
         return max;
