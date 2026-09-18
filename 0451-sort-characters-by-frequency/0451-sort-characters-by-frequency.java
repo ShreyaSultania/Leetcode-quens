@@ -16,7 +16,6 @@ class Pair implements Comparable<Pair>{
 }
 class Solution {
     public String frequencySort(String s) {
-        PriorityQueue<Pair>pq=new PriorityQueue<>();
         HashMap<Character,Integer>map=new HashMap<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
@@ -28,17 +27,17 @@ class Solution {
                 map.put(ch,freq+1);
             }
         }
+        ArrayList<Pair>arr=new ArrayList<>();
         for(char ch:map.keySet()){
             int freq=map.get(ch);
-            pq.add(new Pair(ch,freq));
+            arr.add(new Pair(ch,freq));
         }
+        Collections.sort(arr);
         String ans="";
-        while(pq.size()>0){
-            Pair p=pq.remove();
-            int f=p.freq;
-            char c=p.ch;
-            for(int i=0;i<f;i++){
-                ans+=c;
+        for(int i=0;i<arr.size();i++){
+            Pair p=arr.get(i);
+            for(int j=0;j<p.freq;j++){
+                ans+=p.ch;
             }
         }
         return ans;
