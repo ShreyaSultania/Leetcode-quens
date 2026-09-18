@@ -11,13 +11,15 @@ class Solution {
             i++;
             j--;
         }
-        String sb="";
+        String ans="";
         for(int k=0;k<arr.length;k++){
-            if(k!=arr.length-1)sb+=arr[k]+" ";
+            if(k==arr.length-1){
+            ans+=arr[k];
+            }
             else{
-                sb+=arr[k];
+                ans+=arr[k]+" ";
             }
         }
-        return sb;
+        return ans;
     }
 }
