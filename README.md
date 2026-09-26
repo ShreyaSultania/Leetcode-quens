@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0130-surrounded-regions/) | Medium |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
