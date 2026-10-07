@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0496-next-greater-element-i/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -775,4 +778,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0169-majority-element/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
