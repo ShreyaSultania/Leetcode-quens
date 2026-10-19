@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2126-destroying-asteroids/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2126-destroying-asteroids/) | Medium |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2136-earliest-possible-day-of-full-bloom/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
