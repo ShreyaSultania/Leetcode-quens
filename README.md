@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0948-bag-of-tokens/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2540-minimum-common-value/) | Easy |
