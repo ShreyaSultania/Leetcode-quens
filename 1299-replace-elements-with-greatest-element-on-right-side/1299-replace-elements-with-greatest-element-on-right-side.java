@@ -1,12 +1,11 @@
 class Solution {
     public int[] replaceElements(int[] arr) {
         int n=arr.length;
-        for(int i=0;i<n;i++){
-            int max=-1;
-            for(int j=i+1;j<n;j++){
-                max=Math.max(max,arr[j]);
-            }
+        int max=-1;
+        for(int i=n-1;i>=0;i--){
+            int curr=arr[i];
             arr[i]=max;
+            max=Math.max(max,curr);
         }
         return arr;
     }
