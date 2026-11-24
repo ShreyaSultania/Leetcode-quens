@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -681,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -754,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreyaSultania/Leetcode-quens/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
